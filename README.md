@@ -1,16 +1,16 @@
 ```markdown
-**JobApplicationBot**
+JobApplicationBot
 
-**Overview**
+Overview
 
 This repository contains an automated job application agent that uses OpenAI's API and Playwright for end-to-end interaction with job portals.
 
-**Prerequisites**
+Prerequisites
 
 - Python 3.8 or higher  
 - Git
 
-**Setup Instructions**
+Setup Instructions
 
 Follow these steps to get the project up and running locally:
 
