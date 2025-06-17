@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "issue": "No headline or title at the top",
+      "description": "Your name is not your identity. Recruiters want to know what role you’re targeting within seconds. Without a clear title like 'Data Analyst' or 'Business Intelligence Specialist', you’re just another generic profile.",
+      "fix": "Add a headline below your name.",
+      "example": "Data Analyst | Power BI | SQL | Business Insights"
+    },
+    {
+      "id": 2,
+      "issue": "Weak summary section",
+      "description": "Most summaries are just a dump of tools, e.g., 'Experienced with Excel, Python, Tableau…' But that doesn’t tell a story.",
+      "fix": "Talk outcomes, not just tools. Emphasize what you achieved using those tools.",
+      "example": "Built dashboards that reduced inventory errors by 15% and improved warehouse efficiency by 20%."
+    },
+    {
+      "id": 3,
+      "issue": "Generic skill section",
+      "description": "Skills like 'Teamwork' and 'Problem-solving' are overused and don’t help distinguish you. Recruiters need ATS-friendly keywords that match the job description.",
+      "fix": "Use specific, technical skills and keywords relevant to the job.",
+      "example": "SQL | Power BI | Data Cleaning | A/B Testing | Python | Data Visualization"
+    },
+    {
+      "id": 4,
+      "issue": "Quantified results, but no context",
+      "description": "Simply stating 'reduced cost by 10%' is good, but it lacks context on how it was achieved.",
+      "fix": "Use an Action + Tool + Result format to show your method.",
+      "example": "Automated reporting with Python, saving 10+ hours/week and reducing manual errors by 30%."
+    },
+    {
+      "id": 5,
+      "issue": "No portfolio link or GitHub",
+      "description": "For a data analyst, not including a portfolio or GitHub link is a missed opportunity to provide evidence of your work.",
+      "fix": "Add a portfolio or GitHub link at the top or bottom of your resume, highlighting 2–3 key projects.",
+      "example": "Include: 'Portfolio: github.com/yourusername' or a link to your online portfolio."
+    },
+    {
+      "id": 6,
+      "issue": "No objective or role alignment",
+      "description": "Generic objectives like 'Seeking a challenging role…' are fluff. They don’t show your intent or how you align with the role.",
+      "fix": "Write a concise one-liner that clearly shows your intent and role alignment.",
+      "example": "Looking to leverage 3+ years of analytics experience to drive decision-making in a fast-paced product company."
+    }
+  ]
